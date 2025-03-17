@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "publication_year": 1999,
+      "genre": "Technology",
+      "read_status": "Completed",
+      "added_to_database": "2025-03-18"
+    },
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "publication_year": 2008,
+      "genre": "Technology",
+      "read_status": "Reading",
+      "added_to_database": "2025-03-18"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "publication_year": 2018,
+      "genre": "Self-Help",
+      "read_status": "Not Started",
+      "added_to_database": "2025-03-18"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "publication_year": 1988,
+      "genre": "Fiction",
+      "read_status": "Completed",
+      "added_to_database": "2025-03-18"
+    },
+    {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "publication_year": 2016,
+      "genre": "Productivity",
+      "read_status": "Reading",
+      "added_to_database": "2025-03-18"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "publication_year": 2011,
+      "genre": "History",
+      "read_status": "Not Started",
+      "added_to_database": "2025-03-18"
+    }
+  ]
+}
